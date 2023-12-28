@@ -1,11 +1,8 @@
-import org.apache.poi.xssf.usermodel.XSSFWorkbook;
-
-import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.util.Properties;
 
-public class ExcelFileReading {
+public class configWritingdata {
 
     public static void main(String[] args) throws IOException {
 
