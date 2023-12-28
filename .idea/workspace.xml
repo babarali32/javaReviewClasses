@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fa0582f8-8659-4c58-9699-43aedc806535" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReviewClassejava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2ZGQ6OqrU5hH90CToIJTyz4gUxB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "G:/Apache/poi-src-5.2.4-20230921-5.2.4",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\04 -java\07 java\javaReviewClassme\ReviewClassejava\Drivers" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ExcelFileReading">
+    <configuration name="ExcelFileReading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExcelFileReading" />
+      <module name="ReviewClassejava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="continuekeyword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="continuekeyword" />
+      <module name="ReviewClassejava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="fiveMultipletime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fiveMultipletime" />
+      <module name="ReviewClassejava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="multiplicationTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="multiplicationTable" />
+      <module name="ReviewClassejava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="nestedLoops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nestedLoops" />
+      <module name="ReviewClassejava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ExcelFileReading" />
+        <item itemvalue="Application.fiveMultipletime" />
+        <item itemvalue="Application.multiplicationTable" />
+        <item itemvalue="Application.nestedLoops" />
+        <item itemvalue="Application.continuekeyword" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa0582f8-8659-4c58-9699-43aedc806535" name="Changes" comment="" />
+      <created>1702045762350</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702045762350</updated>
+      <workItem from="1702045763341" duration="2703000" />
+      <workItem from="1702222673703" duration="3431000" />
+      <workItem from="1702290009936" duration="59000" />
+      <workItem from="1702396606620" duration="2735000" />
+      <workItem from="1702401916591" duration="684000" />
+      <workItem from="1702657784741" duration="2392000" />
+      <workItem from="1702716504822" duration="52000" />
+      <workItem from="1702738218218" duration="4988000" />
+      <workItem from="1702827755938" duration="1476000" />
+      <workItem from="1702832328909" duration="1163000" />
+      <workItem from="1702876398773" duration="75000" />
+      <workItem from="1702902364501" duration="3291000" />
+      <workItem from="1702913486351" duration="2577000" />
+      <workItem from="1702916376873" duration="502000" />
+      <workItem from="1702917101432" duration="1415000" />
+      <workItem from="1702959633821" duration="12483000" />
+      <workItem from="1703183297886" duration="1712000" />
+      <workItem from="1703215566173" duration="42000" />
+      <workItem from="1703265504753" duration="1337000" />
+      <workItem from="1703308178120" duration="425000" />
+      <workItem from="1703353770583" duration="1889000" />
+      <workItem from="1703397510186" duration="41000" />
+      <workItem from="1703437585735" duration="2401000" />
+      <workItem from="1703480678317" duration="21000" />
+      <workItem from="1703607037067" duration="3886000" />
+      <workItem from="1703650039196" duration="158000" />
+      <workItem from="1703694618289" duration="359000" />
+      <workItem from="1703731252193" duration="292000" />
+      <workItem from="1703768504387" duration="1295000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/WhileLoop.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/WhileLoop.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
